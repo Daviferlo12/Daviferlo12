@@ -13,13 +13,9 @@
 - PHP Nativo
 - BD Relacionales
 
-## Experiencia
-
-Tengo experiencia en el desarrollo de soluciones web y brindando soporte en este ámbito. Actualmente, me desempeño como Operador SOC en una empresa de ciberseguridad, donde adquiero conocimientos valiosos sobre la protección de sistemas y datos.
-
 ## Intereses
 
-Mi pasión se centra en el desarrollo de habilidades como desarrollador back-end. Me emociona la oportunidad de enfrentar desafíos técnicos y contribuir con soluciones innovadoras.
+Mi pasión se centra en el desarrollo de habilidades como desarrollador back-end, enfoncandome en frameworks de python y .NET. Me emociona la oportunidad de enfrentar desafíos técnicos y contribuir con soluciones innovadoras.
 
 Si estás buscando a alguien con un enfoque dinámico y un espíritu de aprendizaje continuo, ¡no dudes en contactarme!
 
