@@ -1,6 +1,6 @@
 # Perfil Profesional
 
-¡Bienvenido/a a mi perfil profesional! Soy un ingeniero de software y tecnólogo en análisis y desarrollo de sistemas de información. Soy un joven entusiasta y proactivo, con habilidades destacadas en comunicación, trabajo en equipo y resolución de problemas. 
+¡Bienvenido/a a mi perfil profesional! Soy Estudiante de Ingeniería de software y Tecnólogo en análisis y desarrollo de sistemas de información. Joven entusiasta y proactivo con habilidades destacadas en comunicación, trabajo en equipo y resolución de problemas. Capacidad para aprender rápidamente, adaptarse a entornos cambiantes y trabajar en un ambiente dinámico. Experiencia en desarrollo de soluciones web y soporte. Apasionado por mejorar mis habilidades en el desarrollo de software, y dispuesto a asumir desafíos que me permitan crecer profesionalmente. 
 
 ## Habilidades
 
