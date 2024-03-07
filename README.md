@@ -9,7 +9,6 @@
 - Aprendizaje rápido
 - Adaptabilidad a entornos cambiantes
 - Python - INTERMEDIO
-- .NET - INTERMEDIO
 - PHP Nativo
 - BD Relacionales
 
