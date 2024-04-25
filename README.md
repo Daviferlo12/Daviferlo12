@@ -14,7 +14,7 @@
 
 ## Intereses
 
-Mi pasión se centra en el desarrollo de habilidades como desarrollador back-end, enfoncandome en frameworks de python y .NET. Me emociona la oportunidad de enfrentar desafíos técnicos y contribuir con soluciones innovadoras. Por aca estaré publicando todo proyecto que realize tanto a nivel personal, como academico.
+Mi pasión se centra en el desarrollo de habilidades como desarrollador back-end, enfoncandome en frameworks de python y .NET. Me emociona la oportunidad de enfrentar desafíos técnicos y contribuir con soluciones innovadoras. Por acá estaré publicando todo proyecto que realize tanto a nivel personal, como academico.
 
 Si estás buscando a alguien con un enfoque dinámico y un espíritu de aprendizaje continuo, ¡no dudes en contactarme!
 
